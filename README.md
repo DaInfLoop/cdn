@@ -1,4 +1,3 @@
-[![](https://data.jsdelivr.com/v1/package/gh/dainfloop/cdn/badge)](https://www.jsdelivr.com/package/gh/dainfloop/cdn)
 # cdn
 my own cdn
 
