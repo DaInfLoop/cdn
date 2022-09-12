@@ -1,3 +1,6 @@
+# archive notice
+i don't use this anymore, rather I use [`i.haroon.repl.co`](i.haroon.repl.co). if you want an api key DM me on discord (DaInfLoop#5548)
+
 # cdn
 my own cdn
 
